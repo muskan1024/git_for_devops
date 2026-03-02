@@ -1,0 +1,15 @@
+git --version
+git status
+git restore filename
+git init  : initialize git in your folder or file locally
+git add . : used to stage files 
+git commit -m "message" : used to send files from staged phase to tracked phase 
+git remote add origin https://repo-url
+
+used pat(personal access token) instead of password to push changes to github 
+
+git remote set-url origin https://pat@github.com/repo-url
+git remote -v
+git push origin master
+
+git clone the-url-of-repo-to-clone
