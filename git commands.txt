@@ -13,3 +13,13 @@ git remote -v
 git push origin master
 
 git clone the-url-of-repo-to-clone
+
+git branch 
+git branch branch-name : creates new branch
+git switch branch-name
+
+git log
+HEAD represents the latest commit on repository
+git log --oneline     q to exit
+
+git checkout branch-name : same as git switch
