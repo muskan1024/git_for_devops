@@ -23,3 +23,5 @@ HEAD represents the latest commit on repository
 git log --oneline     q to exit
 
 git checkout branch-name : same as git switch
+
+git fetch

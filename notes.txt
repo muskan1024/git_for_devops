@@ -1,0 +1,8 @@
+Git Hooks: Git Hooks are scripts that automatically execute at specific points in the Git workflow, such as before or after commits, pushes, or merges, to enforce rules or automate tasks.
+
+Why Git Hooks Are Used :
+    Automate development tasks
+    Enforce coding standards
+    Prevent incorrect commits or pushes
+    Run tests before code is committed
+    Improve code quality and workflow control
